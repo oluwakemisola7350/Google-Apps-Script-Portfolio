@@ -33,5 +33,6 @@ Reduced manual stock tracking
 Managers can see products that need restock instantly
 
 Live Demo:[View Google Sheet](https://docs.google.com/spreadsheets/d/1qUxsNuijVtxPrZTMTKklRcwLwD-SZeTK6LoInonoJXk/edit?usp=sharing)
-Code:
+Aps Script Code:[Code.gs.docx](https://github.com/user-attachments/files/24152352/Code.gs.docx)
+
 
