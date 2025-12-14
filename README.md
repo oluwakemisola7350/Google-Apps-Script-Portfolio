@@ -10,3 +10,26 @@ Data Import & Cleaning
 Pivot tables & Dashboards
 Automated Alerts and Triggers
 ---
+##Portfolio Projects
+###Inventory Management Dashboard
+**Description:**
+Automated data transfer and monitoring of inventory.
+
+**What the Apps Script does:**
+Imports product data from source sheet automatically
+Updates stock levels in the master sheet
+Highlights products due for restock using conditional formatting
+Generates pivot tables and summary charts for quick reporting
+Sends automatic Email alerts for Immediate restock
+**Tools:**
+Google Apps Script
+Google Sheet
+Pivot tables & Charts
+Conditional formatting
+Time-driven Triggers
+
+**Result/Outcome:**
+Reduced manual stock tracking
+Managers can see products that need restock instantly
+
+
