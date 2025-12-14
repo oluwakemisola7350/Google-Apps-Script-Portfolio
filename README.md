@@ -32,4 +32,6 @@ Time-driven Triggers
 Reduced manual stock tracking
 Managers can see products that need restock instantly
 
+Live Demo:[View Google Sheet](https://docs.google.com/spreadsheets/d/1qUxsNuijVtxPrZTMTKklRcwLwD-SZeTK6LoInonoJXk/edit?usp=sharing)
+Code:
 
