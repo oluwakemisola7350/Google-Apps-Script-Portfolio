@@ -33,7 +33,7 @@ Reduced manual stock tracking
 Managers can see products that need restock instantly
 
 Live Demo:[View Google Sheet](https://docs.google.com/spreadsheets/d/1qUxsNuijVtxPrZTMTKklRcwLwD-SZeTK6LoInonoJXk/edit?usp=sharing)
-Restock Threshold Logic:![Restock Threshold Logic](https://github.com/oluwakemisola7350/Google-Apps-Script-Portfolio/blob/740199bbe902e5a0a7d8debe90e73506ad66bdc4/Images/Screenshot_20251215-084759~2.png)
+Restock Threshold Logic:![Apps Script Logo](https://github.com/oluwakemisola7350/Google-Apps-Script-Portfolio/blob/0f199b823bb10a561c25f2416611adfa2887b654/assets/Apps_Script_Logo.png)
 
 
 
