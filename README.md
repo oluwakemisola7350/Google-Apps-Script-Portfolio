@@ -33,7 +33,7 @@ Reduced manual stock tracking
 Managers can see products that need restock instantly
 
 Live Demo:[View Google Sheet](https://docs.google.com/spreadsheets/d/1qUxsNuijVtxPrZTMTKklRcwLwD-SZeTK6LoInonoJXk/edit?usp=sharing)
-Aps Script Code-Restock Threshold Logic:[Restock Logic](Images/Screenshot_20251215-084759~2.png)
+Aps Script Code-Restock Threshold Logic:![Restock Logic](Images/Screenshot_20251215-084759~2.png)
 
 
 
